@@ -28,7 +28,7 @@ void bubbleSort(int arr[], int n)
    } 
 } 
   
-/print an array */
+/*print an array */
 void printArray(int arr[], int size) 
 { 
     int i; 
